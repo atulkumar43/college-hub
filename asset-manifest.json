@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/college-hub/static/css/main.f855e6bc.css",
+    "main.js": "/college-hub/static/js/main.ca4856cd.js",
+    "static/js/453.bd07c50b.chunk.js": "/college-hub/static/js/453.bd07c50b.chunk.js",
+    "static/media/logo.svg": "/college-hub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/college-hub/index.html",
+    "main.f855e6bc.css.map": "/college-hub/static/css/main.f855e6bc.css.map",
+    "main.ca4856cd.js.map": "/college-hub/static/js/main.ca4856cd.js.map",
+    "453.bd07c50b.chunk.js.map": "/college-hub/static/js/453.bd07c50b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ca4856cd.js"
+  ]
+}
